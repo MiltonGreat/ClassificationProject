@@ -75,3 +75,5 @@ Logistic Regression provides the best scores on accuracy, precision, recall, and
 F. Conclusion
 
 The analysis and modeling steps successfully identify important features and predict customer churn. The final model provides insights into the factors contributing to churn and can be used to make strategic decisions for customer retention.
+
+Source: https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
